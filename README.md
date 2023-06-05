@@ -5,7 +5,6 @@
 ### Reconstruction-based anomaly detection with encoders can be applied in a variety of real-world scenarios, including:
 
 
-Here are some additional details about how reconstruction-based anomaly detection with encoders can be applied in each of these scenarios:
 
 * Fraud detection: In fraud detection, an encoder can be trained on a set of normal transactions. When a new transaction is submitted, the encoder can be used to reconstruct the transaction. If the reconstruction error is high, then the transaction is likely to be fraudulent.
 * Network security: In network security, an encoder can be trained on a set of normal network traffic. When new network traffic is detected, the encoder can be used to reconstruct the traffic. If the reconstruction error is high, then the traffic is likely to be malicious.
